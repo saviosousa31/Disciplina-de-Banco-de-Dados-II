@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "c64KUuQ/AIdr8GuG6G70YgBr+bSfkMSBd9xl2ef4qF166jKufgUHVg/kNjvSRoGPZkKGlUkLo6o2AdKGGBIAzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ssoar\\Desktop\\Faculdade\\BD II - Eduardo\\aulaTransacao\\aulaTransacao\\aulaTransacao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ssoar\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\ssoar\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\ssoar\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
